@@ -1,0 +1,232 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/18.1/project files/bkadder/simulation/modelsim
+Eassign4
+Z1 w1634726935
+Z2 DPx4 work 6 my_pkg 0 22 OQ2eREZNXFDJ;XZn2?NK31
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8C:/intelFPGA_lite/18.1/project files/bkadder/assign4.vhd
+Z6 FC:/intelFPGA_lite/18.1/project files/bkadder/assign4.vhd
+l0
+L5
+Vf1kY?cDX9_4IWWMoozF_N1
+!s100 fWP786D7O[EDi3B2RQiX`2
+Z7 OV;C;10.5b;63
+31
+Z8 !s110 1634734475
+!i10b 1
+Z9 !s108 1634734475.000000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/bkadder/assign4.vhd|
+Z11 !s107 C:/intelFPGA_lite/18.1/project files/bkadder/assign4.vhd|
+!i113 1
+Z12 o-93 -work work
+Z13 tExplicit 1 CvgOpt 0
+Adflow
+R2
+R3
+R4
+DEx4 work 7 assign4 0 22 f1kY?cDX9_4IWWMoozF_N1
+l26
+L15
+V[2^_POlQ_A97M>=0<WY2[0
+!s100 3J]D?nQhL`TG16U6H`VN61
+R7
+31
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eelement_and
+Z14 w1634726196
+R3
+R4
+R0
+Z15 8C:/intelFPGA_lite/18.1/project files/bkadder/element_and.vhd
+Z16 FC:/intelFPGA_lite/18.1/project files/bkadder/element_and.vhd
+l0
+L4
+VIFfS_A6m<]ho]?>oBn[AP1
+!s100 UiDz9F0296bj4cS0cYcOi0
+R7
+31
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/bkadder/element_and.vhd|
+Z18 !s107 C:/intelFPGA_lite/18.1/project files/bkadder/element_and.vhd|
+!i113 1
+R12
+R13
+Adflow
+R3
+R4
+DEx4 work 11 element_and 0 22 IFfS_A6m<]ho]?>oBn[AP1
+l13
+L11
+VW<hdj_V;?D0eb>QDVQ]N60
+!s100 ;S]MfMaNnT38I6@];Yz3O2
+R7
+31
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Eelement_orand
+Z19 w1634726226
+R3
+R4
+R0
+Z20 8C:/intelFPGA_lite/18.1/project files/bkadder/element_orand.vhd
+Z21 FC:/intelFPGA_lite/18.1/project files/bkadder/element_orand.vhd
+l0
+L4
+V7OX6N8BCKG0VI>?4hL9Ul2
+!s100 59f1;gf?2mLaLU4kXVKhU1
+R7
+31
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/bkadder/element_orand.vhd|
+Z23 !s107 C:/intelFPGA_lite/18.1/project files/bkadder/element_orand.vhd|
+!i113 1
+R12
+R13
+Adflow
+R3
+R4
+DEx4 work 13 element_orand 0 22 7OX6N8BCKG0VI>?4hL9Ul2
+l13
+L11
+VgP2@1i_AD1kX[chmhWHm33
+!s100 Ljj;j@nz;Q9j3Qd=;9C8I3
+R7
+31
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Eelement_xor
+Z24 w1634726260
+R3
+R4
+R0
+Z25 8C:/intelFPGA_lite/18.1/project files/bkadder/element_xor.vhd
+Z26 FC:/intelFPGA_lite/18.1/project files/bkadder/element_xor.vhd
+l0
+L4
+Vh3z8kXlb@o_<W00a3XjL:1
+!s100 ZPo0kCW7njZGAlm1[f>fn1
+R7
+31
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/bkadder/element_xor.vhd|
+Z28 !s107 C:/intelFPGA_lite/18.1/project files/bkadder/element_xor.vhd|
+!i113 1
+R12
+R13
+Adflow
+R3
+R4
+DEx4 work 11 element_xor 0 22 h3z8kXlb@o_<W00a3XjL:1
+l13
+L11
+VAkXccgd9;i@^S>b=Y??da3
+!s100 L8jJ:Gm1]]kC5j<VG0nAK2
+R7
+31
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Pmy_pkg
+R3
+R4
+w1634726290
+R0
+8C:/intelFPGA_lite/18.1/project files/bkadder/my_pkg.vhd
+FC:/intelFPGA_lite/18.1/project files/bkadder/my_pkg.vhd
+l0
+L5
+VOQ2eREZNXFDJ;XZn2?NK31
+!s100 Q6BTS5hmX^_D_[O[KiQ:A3
+R7
+31
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/bkadder/my_pkg.vhd|
+!s107 C:/intelFPGA_lite/18.1/project files/bkadder/my_pkg.vhd|
+!i113 1
+R12
+R13
+Etb
+Z29 w1634727121
+Z30 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R4
+R0
+Z31 8C:/intelFPGA_lite/18.1/project files/bkadder/tb.vhd
+Z32 FC:/intelFPGA_lite/18.1/project files/bkadder/tb.vhd
+l0
+L7
+V_92DCkB9kDTg7?NZO?n5g1
+!s100 <_zX9W_T0n^UIEhdTI7^31
+R7
+31
+R8
+!i10b 1
+R9
+Z33 !s90 -reportprogress|300|-93|-work|work|C:/intelFPGA_lite/18.1/project files/bkadder/tb.vhd|
+Z34 !s107 C:/intelFPGA_lite/18.1/project files/bkadder/tb.vhd|
+!i113 1
+R12
+R13
+Abehave
+R30
+R2
+R3
+R4
+DEx4 work 2 tb 0 22 _92DCkB9kDTg7?NZO?n5g1
+l20
+L11
+Vb^miHWMhMX81@2^z;GGLK2
+!s100 ;^c5@JU@GSBWY`i37a0`f3
+R7
+31
+R8
+!i10b 1
+R9
+R33
+R34
+!i113 1
+R12
+R13

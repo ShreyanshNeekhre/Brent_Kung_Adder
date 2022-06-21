@@ -1,0 +1,1374 @@
+|assign4
+a[0] => element_and:generate1:0:generate11:G.a
+a[0] => element_xor:generate1:0:generate11:p.a
+a[1] => element_and:generate1:1:generate111:g.a
+a[1] => element_xor:generate1:1:generate111:p.a
+a[2] => element_and:generate1:2:generate111:g.a
+a[2] => element_xor:generate1:2:generate111:p.a
+a[3] => element_and:generate1:3:generate111:g.a
+a[3] => element_xor:generate1:3:generate111:p.a
+a[4] => element_and:generate1:4:generate111:g.a
+a[4] => element_xor:generate1:4:generate111:p.a
+a[5] => element_and:generate1:5:generate111:g.a
+a[5] => element_xor:generate1:5:generate111:p.a
+a[6] => element_and:generate1:6:generate111:g.a
+a[6] => element_xor:generate1:6:generate111:p.a
+a[7] => element_and:generate1:7:generate111:g.a
+a[7] => element_xor:generate1:7:generate111:p.a
+a[8] => element_and:generate1:8:generate111:g.a
+a[8] => element_xor:generate1:8:generate111:p.a
+a[9] => element_and:generate1:9:generate111:g.a
+a[9] => element_xor:generate1:9:generate111:p.a
+a[10] => element_and:generate1:10:generate111:g.a
+a[10] => element_xor:generate1:10:generate111:p.a
+a[11] => element_and:generate1:11:generate111:g.a
+a[11] => element_xor:generate1:11:generate111:p.a
+a[12] => element_and:generate1:12:generate111:g.a
+a[12] => element_xor:generate1:12:generate111:p.a
+a[13] => element_and:generate1:13:generate111:g.a
+a[13] => element_xor:generate1:13:generate111:p.a
+a[14] => element_and:generate1:14:generate111:g.a
+a[14] => element_xor:generate1:14:generate111:p.a
+a[15] => element_and:generate1:15:generate111:g.a
+a[15] => element_xor:generate1:15:generate111:p.a
+a[16] => element_and:generate1:16:generate111:g.a
+a[16] => element_xor:generate1:16:generate111:p.a
+a[17] => element_and:generate1:17:generate111:g.a
+a[17] => element_xor:generate1:17:generate111:p.a
+a[18] => element_and:generate1:18:generate111:g.a
+a[18] => element_xor:generate1:18:generate111:p.a
+a[19] => element_and:generate1:19:generate111:g.a
+a[19] => element_xor:generate1:19:generate111:p.a
+a[20] => element_and:generate1:20:generate111:g.a
+a[20] => element_xor:generate1:20:generate111:p.a
+a[21] => element_and:generate1:21:generate111:g.a
+a[21] => element_xor:generate1:21:generate111:p.a
+a[22] => element_and:generate1:22:generate111:g.a
+a[22] => element_xor:generate1:22:generate111:p.a
+a[23] => element_and:generate1:23:generate111:g.a
+a[23] => element_xor:generate1:23:generate111:p.a
+a[24] => element_and:generate1:24:generate111:g.a
+a[24] => element_xor:generate1:24:generate111:p.a
+a[25] => element_and:generate1:25:generate111:g.a
+a[25] => element_xor:generate1:25:generate111:p.a
+a[26] => element_and:generate1:26:generate111:g.a
+a[26] => element_xor:generate1:26:generate111:p.a
+a[27] => element_and:generate1:27:generate111:g.a
+a[27] => element_xor:generate1:27:generate111:p.a
+a[28] => element_and:generate1:28:generate111:g.a
+a[28] => element_xor:generate1:28:generate111:p.a
+a[29] => element_and:generate1:29:generate111:g.a
+a[29] => element_xor:generate1:29:generate111:p.a
+a[30] => element_and:generate1:30:generate111:g.a
+a[30] => element_xor:generate1:30:generate111:p.a
+a[31] => element_and:generate1:31:generate111:g.a
+a[31] => element_xor:generate1:31:generate111:p.a
+b[0] => element_and:generate1:0:generate11:G.b
+b[0] => element_xor:generate1:0:generate11:p.b
+b[1] => element_and:generate1:1:generate111:g.b
+b[1] => element_xor:generate1:1:generate111:p.b
+b[2] => element_and:generate1:2:generate111:g.b
+b[2] => element_xor:generate1:2:generate111:p.b
+b[3] => element_and:generate1:3:generate111:g.b
+b[3] => element_xor:generate1:3:generate111:p.b
+b[4] => element_and:generate1:4:generate111:g.b
+b[4] => element_xor:generate1:4:generate111:p.b
+b[5] => element_and:generate1:5:generate111:g.b
+b[5] => element_xor:generate1:5:generate111:p.b
+b[6] => element_and:generate1:6:generate111:g.b
+b[6] => element_xor:generate1:6:generate111:p.b
+b[7] => element_and:generate1:7:generate111:g.b
+b[7] => element_xor:generate1:7:generate111:p.b
+b[8] => element_and:generate1:8:generate111:g.b
+b[8] => element_xor:generate1:8:generate111:p.b
+b[9] => element_and:generate1:9:generate111:g.b
+b[9] => element_xor:generate1:9:generate111:p.b
+b[10] => element_and:generate1:10:generate111:g.b
+b[10] => element_xor:generate1:10:generate111:p.b
+b[11] => element_and:generate1:11:generate111:g.b
+b[11] => element_xor:generate1:11:generate111:p.b
+b[12] => element_and:generate1:12:generate111:g.b
+b[12] => element_xor:generate1:12:generate111:p.b
+b[13] => element_and:generate1:13:generate111:g.b
+b[13] => element_xor:generate1:13:generate111:p.b
+b[14] => element_and:generate1:14:generate111:g.b
+b[14] => element_xor:generate1:14:generate111:p.b
+b[15] => element_and:generate1:15:generate111:g.b
+b[15] => element_xor:generate1:15:generate111:p.b
+b[16] => element_and:generate1:16:generate111:g.b
+b[16] => element_xor:generate1:16:generate111:p.b
+b[17] => element_and:generate1:17:generate111:g.b
+b[17] => element_xor:generate1:17:generate111:p.b
+b[18] => element_and:generate1:18:generate111:g.b
+b[18] => element_xor:generate1:18:generate111:p.b
+b[19] => element_and:generate1:19:generate111:g.b
+b[19] => element_xor:generate1:19:generate111:p.b
+b[20] => element_and:generate1:20:generate111:g.b
+b[20] => element_xor:generate1:20:generate111:p.b
+b[21] => element_and:generate1:21:generate111:g.b
+b[21] => element_xor:generate1:21:generate111:p.b
+b[22] => element_and:generate1:22:generate111:g.b
+b[22] => element_xor:generate1:22:generate111:p.b
+b[23] => element_and:generate1:23:generate111:g.b
+b[23] => element_xor:generate1:23:generate111:p.b
+b[24] => element_and:generate1:24:generate111:g.b
+b[24] => element_xor:generate1:24:generate111:p.b
+b[25] => element_and:generate1:25:generate111:g.b
+b[25] => element_xor:generate1:25:generate111:p.b
+b[26] => element_and:generate1:26:generate111:g.b
+b[26] => element_xor:generate1:26:generate111:p.b
+b[27] => element_and:generate1:27:generate111:g.b
+b[27] => element_xor:generate1:27:generate111:p.b
+b[28] => element_and:generate1:28:generate111:g.b
+b[28] => element_xor:generate1:28:generate111:p.b
+b[29] => element_and:generate1:29:generate111:g.b
+b[29] => element_xor:generate1:29:generate111:p.b
+b[30] => element_and:generate1:30:generate111:g.b
+b[30] => element_xor:generate1:30:generate111:p.b
+b[31] => element_and:generate1:31:generate111:g.b
+b[31] => element_xor:generate1:31:generate111:p.b
+cin => element_orand:generate1:0:generate11:C.c
+cin => element_orand:generate2:0:generate22:C.c
+cin => element_orand:generate3:0:generate33:C.c
+cin => element_orand:generate4:0:generate44:C.c
+cin => element_orand:generate55:0:generate5:C.c
+cin => element_orand:generate66:0:generate666:C.c
+cin => element_xor:sum_generate:0:sogenerate:s0.b
+s[0] << element_xor:sum_generate:0:sogenerate:s0.c
+s[1] << element_xor:sum_generate:1:s1generate:s1.c
+s[2] << element_xor:sum_generate:2:s1generate:s1.c
+s[3] << element_xor:sum_generate:3:s1generate:s1.c
+s[4] << element_xor:sum_generate:4:s1generate:s1.c
+s[5] << element_xor:sum_generate:5:s1generate:s1.c
+s[6] << element_xor:sum_generate:6:s1generate:s1.c
+s[7] << element_xor:sum_generate:7:s1generate:s1.c
+s[8] << element_xor:sum_generate:8:s1generate:s1.c
+s[9] << element_xor:sum_generate:9:s1generate:s1.c
+s[10] << element_xor:sum_generate:10:s1generate:s1.c
+s[11] << element_xor:sum_generate:11:s1generate:s1.c
+s[12] << element_xor:sum_generate:12:s1generate:s1.c
+s[13] << element_xor:sum_generate:13:s1generate:s1.c
+s[14] << element_xor:sum_generate:14:s1generate:s1.c
+s[15] << element_xor:sum_generate:15:s1generate:s1.c
+s[16] << element_xor:sum_generate:16:s1generate:s1.c
+s[17] << element_xor:sum_generate:17:s1generate:s1.c
+s[18] << element_xor:sum_generate:18:s1generate:s1.c
+s[19] << element_xor:sum_generate:19:s1generate:s1.c
+s[20] << element_xor:sum_generate:20:s1generate:s1.c
+s[21] << element_xor:sum_generate:21:s1generate:s1.c
+s[22] << element_xor:sum_generate:22:s1generate:s1.c
+s[23] << element_xor:sum_generate:23:s1generate:s1.c
+s[24] << element_xor:sum_generate:24:s1generate:s1.c
+s[25] << element_xor:sum_generate:25:s1generate:s1.c
+s[26] << element_xor:sum_generate:26:s1generate:s1.c
+s[27] << element_xor:sum_generate:27:s1generate:s1.c
+s[28] << element_xor:sum_generate:28:s1generate:s1.c
+s[29] << element_xor:sum_generate:29:s1generate:s1.c
+s[30] << element_xor:sum_generate:30:s1generate:s1.c
+s[31] << element_xor:sum_generate:31:s1generate:s1.c
+cout << element_orand:generate66:0:generate666:C.d
+
+
+|assign4|element_and:\generate1:0:generate11:G
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate1:0:generate11:C
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:0:generate11:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:1:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:1:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:2:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:2:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:3:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:3:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:4:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:4:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:5:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:5:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:6:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:6:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:7:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:7:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:8:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:8:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:9:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:9:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:10:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:10:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:11:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:11:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:12:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:12:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:13:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:13:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:14:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:14:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:15:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:15:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:16:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:16:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:17:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:17:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:18:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:18:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:19:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:19:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:20:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:20:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:21:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:21:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:22:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:22:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:23:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:23:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:24:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:24:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:25:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:25:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:26:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:26:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:27:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:27:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:28:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:28:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:29:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:29:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:30:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:30:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate1:31:generate111:g
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\generate1:31:generate111:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:0:generate22:G
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:0:generate22:C
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:0:generate22:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:1:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:1:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:2:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:2:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:3:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:3:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:4:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:4:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:5:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:5:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:6:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:6:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:7:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:7:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:8:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:8:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:9:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:9:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:10:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:10:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:11:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:11:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:12:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:12:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:13:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:13:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:14:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:14:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate2:15:generate222:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate2:15:generate222:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:0:generate33:G
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:0:generate33:C
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:0:generate33:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:1:generate333:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:1:generate333:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:2:generate333:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:2:generate333:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:3:generate333:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:3:generate333:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:4:generate333:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:4:generate333:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:5:generate333:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:5:generate333:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:6:generate333:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:6:generate333:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate3:7:generate333:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate3:7:generate333:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate4:0:generate44:G
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate4:0:generate44:C
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate4:0:generate44:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate4:1:generate444:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate4:1:generate444:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate4:2:generate444:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate4:2:generate444:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate4:3:generate444:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate4:3:generate444:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate55:0:generate5:G
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate55:0:generate5:C
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate55:0:generate5:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate55:1:generate555:g
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate55:1:generate555:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate66:0:generate666:G
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:\generate66:0:generate666:C
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_and:\generate66:0:generate666:p
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx3
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx5
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx7
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx9
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx11
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx13
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx15
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx17
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx19
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx21
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx23
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx25
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx27
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx29
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx31
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx6
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx10
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx14
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx18
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx22
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx26
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx30
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx12
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx20
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx24
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_orand:cx28
+a => d.IN1
+b => d.IN0
+c => d.IN1
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:0:sogenerate:s0
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:1:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:2:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:3:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:4:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:5:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:6:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:7:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:8:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:9:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:10:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:11:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:12:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:13:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:14:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:15:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:16:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:17:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:18:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:19:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:20:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:21:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:22:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:23:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:24:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:25:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:26:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:27:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:28:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:29:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:30:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|assign4|element_xor:\sum_generate:31:s1generate:s1
+a => c.IN0
+b => c.IN1
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+
+

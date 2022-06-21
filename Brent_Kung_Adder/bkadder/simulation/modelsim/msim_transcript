@@ -1,0 +1,230 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do assign4_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/intelFPGA_lite/18.1/project files/bkadder/element_and.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:24:35 on Oct 20,2021
+# vcom -reportprogress 300 -93 -work work C:/intelFPGA_lite/18.1/project files/bkadder/element_and.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity element_and
+# -- Compiling architecture dflow of element_and
+# End time: 18:24:35 on Oct 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/intelFPGA_lite/18.1/project files/bkadder/element_orand.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:24:35 on Oct 20,2021
+# vcom -reportprogress 300 -93 -work work C:/intelFPGA_lite/18.1/project files/bkadder/element_orand.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity element_orand
+# -- Compiling architecture dflow of element_orand
+# End time: 18:24:35 on Oct 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/intelFPGA_lite/18.1/project files/bkadder/element_xor.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:24:35 on Oct 20,2021
+# vcom -reportprogress 300 -93 -work work C:/intelFPGA_lite/18.1/project files/bkadder/element_xor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity element_xor
+# -- Compiling architecture dflow of element_xor
+# End time: 18:24:35 on Oct 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/intelFPGA_lite/18.1/project files/bkadder/my_pkg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:24:35 on Oct 20,2021
+# vcom -reportprogress 300 -93 -work work C:/intelFPGA_lite/18.1/project files/bkadder/my_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package my_pkg
+# End time: 18:24:35 on Oct 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/intelFPGA_lite/18.1/project files/bkadder/assign4.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:24:35 on Oct 20,2021
+# vcom -reportprogress 300 -93 -work work C:/intelFPGA_lite/18.1/project files/bkadder/assign4.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package my_pkg
+# -- Compiling entity assign4
+# -- Compiling architecture dflow of assign4
+# End time: 18:24:35 on Oct 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/intelFPGA_lite/18.1/project files/bkadder/tb.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:24:35 on Oct 20,2021
+# vcom -reportprogress 300 -93 -work work C:/intelFPGA_lite/18.1/project files/bkadder/tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package my_pkg
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb
+# -- Compiling architecture behave of tb
+# End time: 18:24:35 on Oct 20,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs="+acc"  tb
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs=""+acc"" tb 
+# Start time: 18:24:35 on Oct 20,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.my_pkg
+# Loading ieee.numeric_std(body)
+# Loading work.tb(behave)
+# Loading work.assign4(dflow)
+# Loading work.element_and(dflow)
+# Loading work.element_orand(dflow)
+# Loading work.element_xor(dflow)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: Correct Result  
+#    Time: 2 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 4 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 6 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 8 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 10 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 12 ns  Iteration: 0  Instance: /tb
+# ** Error: Incorrect Result 
+#    Time: 14 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 16 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 18 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 20 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 22 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 24 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 26 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 28 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 30 ns  Iteration: 0  Instance: /tb
+# ** Error: Incorrect Result 
+#    Time: 32 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 34 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 36 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 38 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 40 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 42 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 44 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 46 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 48 ns  Iteration: 0  Instance: /tb
+# ** Error: Incorrect Result 
+#    Time: 50 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 52 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 54 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 56 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 58 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 60 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 62 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 64 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 66 ns  Iteration: 0  Instance: /tb
+# ** Error: Incorrect Result 
+#    Time: 68 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 70 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 72 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 74 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 76 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 78 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 80 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 82 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 84 ns  Iteration: 0  Instance: /tb
+# ** Error: Incorrect Result 
+#    Time: 86 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 88 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 90 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 92 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 94 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 96 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 98 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 100 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 102 ns  Iteration: 0  Instance: /tb
+# ** Error: Incorrect Result 
+#    Time: 104 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 106 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 108 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 110 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 112 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 114 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 116 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 118 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 120 ns  Iteration: 0  Instance: /tb
+# ** Error: Incorrect Result 
+#    Time: 122 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 124 ns  Iteration: 0  Instance: /tb
+# ** Note: Correct Result  
+#    Time: 126 ns  Iteration: 0  Instance: /tb
+# End time: 18:28:42 on Oct 20,2021, Elapsed time: 0:04:07
+# Errors: 7, Warnings: 0
